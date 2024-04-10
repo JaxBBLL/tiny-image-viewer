@@ -1,6 +1,6 @@
 # tiny-image-viewer
 
-一个简单的图片查看器
+一个简单的图片放大器
 
 ## 安装
 
@@ -57,3 +57,7 @@ tinyImageViewer(imageElement);
 - 如果 `config 参数为图片元素对象`，则函数会将该元素作为要显示的图片，并使用其 src 属性作为图片 URL。如直接调用`tinyImageViewer(imageElement)`
 - 默认情况下，图片将居中显示在浏览器窗口中。
 - 可以通过配置参数来自定义图片的样式和行为。
+
+## 效果图
+
+![效果图](./demo.gif "效果图")

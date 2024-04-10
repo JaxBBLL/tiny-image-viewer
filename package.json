@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "author": "JaxBBLL",
-  "description": "一个简单的图片查看器",
+  "description": "一个简单的图片放大器",
   "main": "index.js",
   "files": [
     "index.js"
